@@ -6,8 +6,6 @@
 - 💼 &nbsp; Trabalho como Analista de Nuvem AWS e Infraestrutura
 - 🌱 &nbsp; Aprendendo mais sobre Arquitetura em Nuvem, IaC
 
-[![Daniel Lara GitHub Stats](https://github-readme-stats.vercel.app/api?username=danniel-lara&show_icons=true)](https://github.com/dannniel-lara)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
