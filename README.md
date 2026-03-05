@@ -13,14 +13,14 @@
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=02A8EF)
-
-### Virtualization & Hypervisors
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### IAC 
+![Terraform](https://img.shields.io/badge/Terraform-%235CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=02A8EF)
 
 ### OS & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
