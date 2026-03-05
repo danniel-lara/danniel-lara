@@ -1,10 +1,13 @@
-<h2>Oi, Sou o Daniel</h2>
 
-<h3> 👨🏻‍💻 Sobre Mim </h3>
+## 👨🏻‍💻 Daniel Lara
 
-- 🤔 &nbsp; Explorando novas tecnologias na nuvem da AWS
-- 💼 &nbsp; Trabalho como Analista de Nuvem AWS e Infraestrutura
-- 🌱 &nbsp; Aprendendo mais sobre Arquitetura em Nuvem, IaC
+**AWS Solutions Architect | DevOps/SRE | IaC Specialist**
+
+- 🏗️ Arquitetando soluções cloud-native com foco em **segurança, resiliência e custo otimizado**
+- 🔧 Automatizando infraestrutura com **Terraform, Ansible e Python**
+- 🐧 Linux enthusiast — do kernel ao deploy
+- 📡 Especialista em **networking AWS** (VPC, Transit Gateway, PrivateLink, VPN)
+- 🎯 Foco atual: **GitOps, Observability e Zero Trust Architecture**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
