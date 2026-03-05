@@ -9,15 +9,26 @@
 - 📡 Especialista em **networking AWS** (VPC, Transit Gateway, PrivateLink, VPN)
 - 🎯 Foco atual: **GitOps, Observability e Zero Trust Architecture**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Packer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg">
-  <img align="center" alt="Ansible" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg">
-  <img align="center" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-</div>
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=02A8EF)
+
+### OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   
 
  <h3> 🤝🏻 contato </h3>
