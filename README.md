@@ -52,22 +52,6 @@ Wazuh • Vault • IAM • Security Hub • GuardDuty
 
 ---
 
-## 📂 Projetos em destaque
-
-🔹 **aws-network-lab**  
-Arquitetura com VPC, subnets públicas/privadas, NAT Gateway e VPN híbrida
-
-🔹 **terraform-eks-production**  
-Provisionamento de cluster EKS com boas práticas de produção
-
-🔹 **observability-stack**  
-Stack com Prometheus + Grafana + Alertmanager com alertas configurados
-
-🔹 **incident-response-lab**  
-Simulação de incidentes com runbooks e análise de causa raiz (RCA)
-
----
-
 ## 📈 Métricas que eu valorizo
 
 - 📉 MTTR (Mean Time to Recovery)
