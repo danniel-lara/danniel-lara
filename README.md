@@ -1,52 +1,94 @@
-
 ## 👨🏻‍💻 Daniel Lara
 
-**AWS Solutions Architect | DevOps/SRE | IaC Specialist**
+**SRE | Cloud Infrastructure Engineer | AWS Certified**
 
-- 🏗️ Arquitetando soluções cloud-native com foco em **segurança, resiliência e custo otimizado**
-- 🔧 Automatizando infraestrutura com **Terraform, Ansible e Python**
-- 🐧 Linux enthusiast — do kernel ao deploy
-- 📡 Especialista em **networking AWS** (VPC, Transit Gateway, PrivateLink, VPN)
-- 🎯 Foco atual: **GitOps, Observability e Zero Trust Architecture**
+🔹 Construindo plataformas resilientes, seguras e escaláveis em ambientes cloud e híbridos  
+🔹 +18 anos em infraestrutura | Foco atual em **SRE, DevSecOps e Cloud-Native**
+
+---
+
+## 🚀 Sobre mim
+
+Sou engenheiro de infraestrutura com forte atuação em **Site Reliability Engineering (SRE)**, trabalhando com ambientes críticos e distribuídos.
+
+Minha abordagem vai além da operação: foco em **engenharia de confiabilidade**, automação e redução de falhas.
+
+📌 Principais focos:
+- Redução de **MTTR (Mean Time to Recovery)**
+- Automação para eliminação de **toil**
+- Arquiteturas resilientes baseadas no **AWS Well-Architected Framework**
+- Integração de segurança (DevSecOps) no ciclo de vida
+
+---
+
+## 🧠 Especialidades
+
+- ☁️ Cloud Architecture (AWS, OCI, Azure)
+- 🌐 Networking avançado (VPC, Transit Gateway, VPN, Hybrid Cloud)
+- 🧱 Infraestrutura como Código (Terraform, Ansible, Packer)
+- 📦 Containers & Orquestração (Docker, Kubernetes - EKS)
+- 📊 Observabilidade (Prometheus, Grafana, ELK, Zabbix)
+- 🔐 Cloud Security & Hardening (IAM, WAF, GuardDuty, CIS Benchmark)
+- ⚙️ CI/CD & Automação (GitLab CI, pipelines)
+
+---
 
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+### ☁️ Cloud & Infra
+AWS • OCI • Azure • VMware • Proxmox • Hyper-V
 
-### IAC 
-![Terraform](https://img.shields.io/badge/Terraform-%235CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=02A8EF)
+### 🔧 IaC & Automação
+Terraform • Ansible • Packer • Python • Bash
 
-### OS & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 📦 Containers
+Docker • Kubernetes (EKS)
 
-### Monitoring & Observability
-![Zabbix](https://img.shields.io/badge/Zabbix-%23CC0000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+### 📊 Observabilidade
+Prometheus • Grafana • ELK Stack • Zabbix
 
-### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🔐 Segurança
+Wazuh • Vault • IAM • Security Hub • GuardDuty
 
-### 🔐 Security
-![Wazuh](https://img.shields.io/badge/Wazuh-%231A1A2E.svg?style=for-the-badge&logo=wazuh&logoColor=00BFFF)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS_WAF-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS GuardDuty](https://img.shields.io/badge/GuardDuty-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Security Hub](https://img.shields.io/badge/Security_Hub-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CIS Benchmark](https://img.shields.io/badge/CIS_Benchmark-%23E74C3C.svg?style=for-the-badge&logo=shield&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=FFCF25)
-  
+---
 
- <h3> 🤝🏻 contato </h3>
+## 📂 Projetos em destaque
 
- <a href="https://www.linkedin.com/in/daniel-lara-souza-37372846" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+🔹 **aws-network-lab**  
+Arquitetura com VPC, subnets públicas/privadas, NAT Gateway e VPN híbrida
 
+🔹 **terraform-eks-production**  
+Provisionamento de cluster EKS com boas práticas de produção
+
+🔹 **observability-stack**  
+Stack com Prometheus + Grafana + Alertmanager com alertas configurados
+
+🔹 **incident-response-lab**  
+Simulação de incidentes com runbooks e análise de causa raiz (RCA)
+
+---
+
+## 📈 Métricas que eu valorizo
+
+- 📉 MTTR (Mean Time to Recovery)
+- 📊 SLO / SLI
+- 🔁 Deployment Frequency
+- 🚨 Incident Rate
+
+---
+
+## 🧾 Certificações
+
+- AWS Solutions Architect – Associate  
+- AWS Cloud Practitioner  
+- Fortinet Certified Associate in Cybersecurity  
+- Oracle Cloud Infrastructure Foundations Associate  
+- ISO/IEC 27001 Information Security  
+
+---
+
+## 🤝 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lara-souza-37372846)
+
+✉️ daniellarasouza@yahoo.com.br
