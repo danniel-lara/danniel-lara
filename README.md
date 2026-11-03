@@ -1,6 +1,9 @@
 Olá, eu sou o Daniel Lara 👋
+
 Cloud Architect & Infrastructure Engineer · DevOps · SRE · DevSecOps
-📍 Porto Alegre, RS · 🏢 Atualmente na IAGENTE
+
+📍 Porto Alegre, RS 
+🏢 Atualmente na IAGENTE
 
  
  
