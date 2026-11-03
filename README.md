@@ -5,7 +5,10 @@ Cloud Architect & Infrastructure Engineer · DevOps · SRE · DevSecOps
 📍 Porto Alegre, RS 
 
 
+
 🏢 Atualmente na IAGENTE
+
+
 
  
  
@@ -17,10 +20,15 @@ Mais de 18 anos em infraestrutura, do datacenter on-premises à nuvem. Hoje proj
 
 
 🏗️ Arquitetura cloud com foco em resiliência, custo e segurança desde o design
+
 🔐 Defendo que automatizar sem segurança é automatizar vulnerabilidades (IaC, pipelines e cloud seguros por padrão)
+
 🔎 Troubleshooting do macro para o micro: cluster → node → workload → pod → aplicação
+
 🐧 Membro antigo da comunidade Viva o Linux, referência em Bacula e palestrante em eventos de software livre
+
 🛠️ Tech Stack
+
 ☁️ Cloud & Virtualização
 
  
