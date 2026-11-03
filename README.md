@@ -70,18 +70,31 @@ Mais de 18 anos em infraestrutura, do datacenter on-premises à nuvem. Hoje proj
 Escrevo sobre segurança, cloud e operação no LinkedIn:
 
 🔒 Segurança em Pipelines: o código só é seguro quando a pipeline também é
+
 🧱 Segurança em IaC: automatizar sem segurança é automatizar vulnerabilidades
+
 ☁️ A nuvem não é segura por padrão. Quem garante a segurança é você
+
 💾 Backup não testado não é segurança. É esperança
+
 🚨 Quando o incidente acontece, processo salva. Ferramenta não
+
 🛡️ AWS WAF + Security Automations
+
 🦅 Wazuh: arquitetura de uma plataforma XDR open source
+
 📈 Como eu meço sucesso
+
 Métrica	Por que importa
+
 MTTR	Incidente vai acontecer — o que importa é voltar rápido
+
 SLO / SLI	Confiabilidade definida com o negócio, não no achismo
+
 Deployment Frequency	Entregas pequenas e frequentes = menos risco
+
 Change Failure Rate	Velocidade só vale se vier com estabilidade
+
 🧾 Certificações
 Cloud & Segurança
 
@@ -93,9 +106,6 @@ Cloud & Segurança
 Formação técnica — LINUXtips
 
 Infra as Code Expert · Terraform · Ansible · Packer · Vault · Kubernetes · Istio · Docker
-
-💬 O que dizem
-"Lara is one of the oldest members of Viva o Linux. He has always been a reference in Bacula, besides being a ninja in DevOps." — Fábio Berbert de Paula, recomendação no LinkedIn
 
 📊 GitHub
  
