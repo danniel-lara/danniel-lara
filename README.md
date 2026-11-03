@@ -1,71 +1,87 @@
-## 👨🏻‍💻 Daniel Lara
+Olá, eu sou o Daniel Lara 👋
+Cloud Architect & Infrastructure Engineer · DevOps · SRE · DevSecOps
+📍 Porto Alegre, RS · 🏢 Atualmente na IAGENTE
 
-**DevOps Engineer | Cloud Infrastructure | SRE**
+ 
+ 
 
-🔹 Construindo plataformas resilientes, seguras e escaláveis em ambientes cloud e híbridos  
-🔹 +18 anos em infraestrutura | Foco atual em **SRE, DevSecOps e Cloud-Native**
+🚀 Sobre mim
+Mais de 18 anos em infraestrutura, do datacenter on-premises à nuvem. Hoje projeto e sustento ambientes Cloud, On-Premises e Hybrid Cloud, transformando operação manual em processos automatizados, reproduzíveis, observáveis e seguros.
 
----
+🏗️ Arquitetura cloud com foco em resiliência, custo e segurança desde o design
+🔐 Defendo que automatizar sem segurança é automatizar vulnerabilidades (IaC, pipelines e cloud seguros por padrão)
+🔎 Troubleshooting do macro para o micro: cluster → node → workload → pod → aplicação
+🐧 Membro antigo da comunidade Viva o Linux, referência em Bacula e palestrante em eventos de software livre
+🛠️ Tech Stack
+☁️ Cloud & Virtualização
 
-## 🚀 Sobre mim
+ 
+ 
+ 
+ 
+ 
+ 
 
-Atuo na construção, sustentação e evolução de ambientes Cloud, On-Premises e Hybrid Cloud, 
-buscando transformar tarefas operacionais em processos automatizados, reproduzíveis e observáveis.
+🧱 IaC & Automação
 
----
+ 
+ 
+ 
+ 
+ 
 
-## Meu foco atual está em:
+📦 Containers & Orquestração
 
-- ☁️ Cloud Architecture (AWS, OCI, Azure)
-- 🌐 Networking avançado (VPC, Transit Gateway, VPN, Hybrid Cloud)
-- 🧱 Infraestrutura como Código (Terraform, Ansible, Packer)
-- 📦 Containers & Orquestração (Docker, Kubernetes - EKS)
-- 📊 Observabilidade (Prometheus, Grafana, ELK, Zabbix)
-- 🔐 Cloud Security & Hardening (IAM, WAF, GuardDuty, CIS Benchmark)
-- ⚙️ CI/CD & Automação (GitLab CI, pipelines)
+ 
+ 
+ 
 
----
+📊 Observabilidade
 
-## 🛠️ Tech Stack
+ 
+ 
+ 
 
-### ☁️ Cloud & Infra
-AWS • OCI • Azure • VMware • Proxmox • Hyper-V
+🔐 Segurança
 
-### 🔧 IaC & Automação
-Terraform • Ansible • Packer • Python • Bash
+ 
+ 
+ 
 
-### 📦 Containers
-Docker • Kubernetes (EKS)
+🌐 Networking: VPC · Transit Gateway · VPN Site-to-Site · Hybrid Cloud · DNS · Firewalls
 
-### 📊 Observabilidade
-Prometheus • Grafana • ELK Stack • Zabbix
+✍️ Artigos recentes
+Escrevo sobre segurança, cloud e operação no LinkedIn:
 
-### 🔐 Segurança
-Wazuh • Vault • IAM • Security Hub • GuardDuty
+🔒 Segurança em Pipelines: o código só é seguro quando a pipeline também é
+🧱 Segurança em IaC: automatizar sem segurança é automatizar vulnerabilidades
+☁️ A nuvem não é segura por padrão. Quem garante a segurança é você
+💾 Backup não testado não é segurança. É esperança
+🚨 Quando o incidente acontece, processo salva. Ferramenta não
+🛡️ AWS WAF + Security Automations
+🦅 Wazuh: arquitetura de uma plataforma XDR open source
+📈 Como eu meço sucesso
+Métrica	Por que importa
+MTTR	Incidente vai acontecer — o que importa é voltar rápido
+SLO / SLI	Confiabilidade definida com o negócio, não no achismo
+Deployment Frequency	Entregas pequenas e frequentes = menos risco
+Change Failure Rate	Velocidade só vale se vier com estabilidade
+🧾 Certificações
+Cloud & Segurança
 
----
+🟧 AWS Certified Solutions Architect – Associate
+🟧 AWS Certified Cloud Practitioner
+🟥 Oracle Cloud Infrastructure Foundations Associate
+🛡️ Fortinet Certified Associate in Cybersecurity
+🔐 EXIN Information Security Foundation based on ISO/IEC 27001 (ISFS)
+Formação técnica — LINUXtips
 
-## 📈 Métricas que eu valorizo
+Infra as Code Expert · Terraform · Ansible · Packer · Vault · Kubernetes · Istio · Docker
 
-- 📉 MTTR (Mean Time to Recovery)
-- 📊 SLO / SLI
-- 🔁 Deployment Frequency
-- 🚨 Incident Rate
+💬 O que dizem
+"Lara is one of the oldest members of Viva o Linux. He has always been a reference in Bacula, besides being a ninja in DevOps." — Fábio Berbert de Paula, recomendação no LinkedIn
 
----
+📊 GitHub
+ 
 
-## 🧾 Certificações
-
-- AWS Solutions Architect – Associate  
-- AWS Cloud Practitioner  
-- Fortinet Certified Associate in Cybersecurity  
-- Oracle Cloud Infrastructure Foundations Associate  
-- ISO/IEC 27001 Information Security  
-
----
-
-## 🤝 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lara-souza-37372846)
-
-✉️ daniellarasouza@yahoo.com.br
+💡 "A nuvem não é segura por padrão. Quem garante a segurança é você."
